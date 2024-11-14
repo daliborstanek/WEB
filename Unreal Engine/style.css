@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, purple, darkblue);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.card {
+    background-color: darkslategrey;
+    width: 80%;
+    max-width: 1200px;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px white;
+    position: relative;
+    overflow: hidden;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.logo {
+    width: 50px;
+    margin-right: 15px;
+}
+
+.card h1 {
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.left {
+    width: 40%;
+    padding-right: 20px;
+}
+
+.left h2 {
+    font-size: 1.5em;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.left p {
+    font-size: 1.2em;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.right {
+    width: 55%;
+}
+
+.right h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.right p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.divider {
+    border-top: 2px solid white;
+    margin: 15px 0;
+}
