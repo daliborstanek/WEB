@@ -1,1 +1,1 @@
-
+Soubory mají být pokus na moderní stránku generické firmy. Firma ABC se zabývá oborem IT. Jejich služby zahrnují webové aplikace, IT konzultace a mobilní aplikace. Na spodu stránky se nachází kontakt na Firmu ABC. Je zde na ně telefonní číslo, e-mail a adresa.
