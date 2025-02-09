@@ -1,1 +1,1 @@
-Stránka obsahuje vesmír se Sluncem a trochu planet. Planety lehce září a planety mají stín na straně, která není otočená ke slunci. Planety se nekonečně pohybují po svojí oběžné dráze a při tom se ještě otáčejí.
+Stránka obsahuje vesmír se Sluncem a trochu planet. Slunce lehce září a mají stín na straně, která není otočená ke slunci. Planety se nekonečně pohybují po svojí oběžné dráze a při tom se ještě otáčejí.
